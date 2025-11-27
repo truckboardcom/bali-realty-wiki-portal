@@ -4,65 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Рейтинг проектов недвижимости на Бали</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; background: #f5f7fa; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; line-height: 1.6; color: #333; background: #f5f7fa; }
+        .mobile-toggle { display: none; position: fixed; top: 15px; left: 15px; z-index: 1001; background: #667eea; color: white; border: none; padding: 12px 16px; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4); font-size: 18px; }
         .container { display: flex; min-height: 100vh; }
-        .sidebar { width: 320px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; position: fixed; height: 100vh; overflow-y: auto; box-shadow: 2px 0 10px rgba(0,0,0,0.1); }
-        .logo { display: flex; align-items: center; gap: 15px; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 2px solid rgba(255,255,255,0.2); }
-        .logo i { font-size: 32px; }
-        .logo h2 { font-size: 20px; font-weight: 600; }
-        .main-content { margin-left: 320px; padding: 40px 60px; flex: 1; max-width: 1200px; }
-        .page-header { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 30px; }
-        .page-header h1 { font-size: 36px; color: #2d3748; margin-bottom: 10px; }
-        .page-header .subtitle { font-size: 18px; color: #718096; }
-        .content-area { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-        .info-box { padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 12px; text-align: center; margin: 20px 0; }
-        .info-box h2 { margin-bottom: 15px; font-size: 28px; }
-        .info-box p { font-size: 16px; line-height: 1.8; }
-        .github-link { display: inline-block; margin-top: 20px; padding: 12px 30px; background: white; color: #667eea; border-radius: 8px; text-decoration: none; font-weight: 600; transition: transform 0.2s; }
-        .github-link:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
-        @media (max-width: 768px) { .sidebar { width: 100%; position: relative; height: auto; } .main-content { margin-left: 0; padding: 20px; } }
+        .sidebar { width: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; position: fixed; height: 100vh; overflow-y: auto; transition: transform 0.3s ease; z-index: 1000; }
+        .logo { font-size: 24px; font-weight: bold; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 2px solid rgba(255,255,255,0.2); }
+        .main-content { margin-left: 300px; padding: 40px; flex: 1; width: 100%; }
+        .header { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 30px; }
+        .header h1 { font-size: 32px; color: #2d3748; margin-bottom: 10px; }
+        .header p { font-size: 18px; color: #718096; }
+        .content { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+        .content h2 { font-size: 28px; color: #2d3748; margin: 30px 0 15px 0; padding-bottom: 10px; border-bottom: 3px solid #667eea; }
+        .content p { margin-bottom: 15px; color: #4a5568; font-size: 16px; }
+        @media (max-width: 768px) {
+            .mobile-toggle { display: block; }
+            .sidebar { transform: translateX(-100%); }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; padding: 80px 20px 20px 20px; }
+            .header { padding: 25px 20px; }
+            .header h1 { font-size: 24px; }
+            .content { padding: 25px 15px; }
+        }
     </style>
 </head>
 <body>
+    <button class="mobile-toggle" onclick="document.querySelector('.sidebar').classList.toggle('open')">☰</button>
     <div class="container">
         <aside class="sidebar">
-            <div class="logo">
-                <i class="fas fa-home"></i>
-                <h2>Bali Недвижимость</h2>
-            </div>
-            <p style="font-size: 14px; opacity: 0.9; line-height: 1.6;">
-                Полный рейтинг проектов недвижимости на Бали с оценкой надежности и доходности
-            </p>
+            <div class="logo">🏝️ Bali Недвижимость</div>
+            <p>Полный обзор 88 проектов</p>
         </aside>
         <main class="main-content">
-            <header class="page-header">
-                <h1>🏝️ Рейтинг проектов недвижимости на Бали</h1>
-                <p class="subtitle">Полный обзор 88 проектов с оценкой надежности и доходности</p>
-            </header>
-            <div class="content-area">
-                <div class="info-box">
-                    <h2><i class="fas fa-check-circle"></i> Сайт готов!</h2>
-                    <p>Статический портал со всем контентом из Google Docs<br>
-                    88 проектов • Детальные рейтинги • Красивый дизайн</p>
-                    <a href="https://github.com/truckboardcom/bali-realty-wiki-portal" class="github-link" target="_blank">
-                        <i class="fab fa-github"></i> Посмотреть на GitHub
-                    </a>
-                </div>
-                <h2 style="margin: 30px 0 20px 0; color: #2d3748;">📋 О портале</h2>
-                <p style="margin-bottom: 15px; color: #4a5568; font-size: 16px;">
-                    Этот портал создан на основе документа Google Docs и содержит полный анализ 88 проектов недвижимости на острове Бали.
-                </p>
-                <h3 style="margin: 25px 0 15px 0; color: #2d3748; font-size: 20px;">✨ Что включено:</h3>
-                <ul style="margin-left: 25px; color: #4a5568; font-size: 15px; line-height: 2;">
-                    <li>Детальные рейтинги по доходности</li>
-                    <li>Оценка надежности застройщиков</li>
-                    <li>Класс жилья и инфраструктура</li>
-                    <li>Удобная навигация по проектам</li>
-                    <li>Адаптивный дизайн для всех устройств</li>
-                </ul>
+            <div class="header">
+                <h1>Рейтинг проектов недвижимости на Бали</h1>
+                <p>Полный обзор 88 проектов с оценкой надежности и доходности</p>
+            </div>
+            <div class="content">
+                <h2>Добро пожаловать!</h2>
+                <p>Это ваш надежный гид по рынку недвижимости на Бали. Все 88 проектов с детальным анализом доступны в полной версии на GitHub.</p>
+                <p>📱 Мобильная версия оптимизирована для просмотра на телефонах</p>
+                <p>💼 Профессиональный анализ каждого проекта</p>
+                <p>🏆 Рейтинг по надежности и доходности</p>
             </div>
         </main>
     </div>

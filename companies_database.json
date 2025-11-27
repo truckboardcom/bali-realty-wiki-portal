@@ -1,0 +1,1734 @@
+{
+  "companies": [
+    {
+      "id": "comp_1",
+      "name": "618",
+      "slug": "618",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_2",
+      "name": "Advo",
+      "slug": "advo",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_3",
+      "name": "Alex Villas",
+      "slug": "alex-villas",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_4",
+      "name": "Almal (из Дубая)",
+      "slug": "almal",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_5",
+      "name": "Avalon (из Украины)",
+      "slug": "avalon",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_6",
+      "name": "Ante Group",
+      "slug": "ante-group",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_7",
+      "name": "Bali Capital Group",
+      "slug": "bali-capital-group",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_8",
+      "name": "Bali Mas",
+      "slug": "bali-mas",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_9",
+      "name": "Balex",
+      "slug": "balex",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_10",
+      "name": "Bali Sunset Commune",
+      "slug": "bali-sunset-commune",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_11",
+      "name": "Value Investments (Феликс Демин)",
+      "slug": "value-investments",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_12",
+      "name": "Baza Development (из Екатеринбурга)",
+      "slug": "baza-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_13",
+      "name": "Basic Development",
+      "slug": "basic-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_14",
+      "name": "BIOM Development",
+      "slug": "biom-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_15",
+      "name": "Big Valley Group",
+      "slug": "big-valley-group",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_16",
+      "name": "Big West Development",
+      "slug": "big-west-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_17",
+      "name": "Break (известен по рекламе на YouTube)",
+      "slug": "break-youtube",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_18",
+      "name": "Koko Development (из Дании)",
+      "slug": "koko-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_19",
+      "name": "Cube",
+      "slug": "cube",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_20",
+      "name": "Сергей Домогацкий",
+      "slug": "",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_21",
+      "name": "Dolphin",
+      "slug": "dolphin",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_22",
+      "name": "Ecolid",
+      "slug": "ecolid",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_23",
+      "name": "Hit the Legend of Ubud",
+      "slug": "hit-the-legend-of-ubud",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_24",
+      "name": "High-Quality Construction",
+      "slug": "high-quality-construction",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_25",
+      "name": "Icon",
+      "slug": "icon",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_26",
+      "name": "IG Group",
+      "slug": "ig-group",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_27",
+      "name": "Loe (множество проектов)",
+      "slug": "loe",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_28",
+      "name": "Livin Developers (премиум-класс)",
+      "slug": "livin-developers",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_29",
+      "name": "Magnum",
+      "slug": "magnum",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_30",
+      "name": "MBM",
+      "slug": "mbm",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_31",
+      "name": "Mira (опытный и надежный)",
+      "slug": "mira",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_32",
+      "name": "Nexa",
+      "slug": "nexa",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_33",
+      "name": "Nuanu Property Group",
+      "slug": "nuanu-property-group",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_34",
+      "name": "Ox",
+      "slug": "ox",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_35",
+      "name": "Oceanic",
+      "slug": "oceanic",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_36",
+      "name": "ParkYu (распределение между компаниями)",
+      "slug": "parkyu",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_37",
+      "name": "Helion Swiss",
+      "slug": "helion-swiss",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_38",
+      "name": "Premier Global Development",
+      "slug": "premier-global-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_39",
+      "name": "Premet",
+      "slug": "premet",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_40",
+      "name": "Pertamo Property",
+      "slug": "pertamo-property",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_41",
+      "name": "Protected Capital Estate",
+      "slug": "protected-capital-estate",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_42",
+      "name": "X-Hotel (Nuanu + Rent-a-Vet)",
+      "slug": "x-hotel-nuanu-rent-a-vet",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_43",
+      "name": "Remark",
+      "slug": "remark",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_44",
+      "name": "Samolet (Самолет)",
+      "slug": "samolet",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_45",
+      "name": "Surfside (бывший проект ParkYu)",
+      "slug": "surfside-parkyu",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_46",
+      "name": "Sunny Development",
+      "slug": "sunny-development",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_47",
+      "name": "Svoi (Свои)",
+      "slug": "svoi",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_48",
+      "name": "Tamora (опытный индонезийский)",
+      "slug": "tamora",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_49",
+      "name": "Taryan (из Украины)",
+      "slug": "taryan",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_50",
+      "name": "Teya / Netflix (из Сочи)",
+      "slug": "teya-netflix",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_51",
+      "name": "Soul",
+      "slug": "soul",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_52",
+      "name": "Teos (из Харькова)",
+      "slug": "teos",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_53",
+      "name": "Unit",
+      "slug": "unit",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    },
+    {
+      "id": "comp_54",
+      "name": "Вертикали (Vertikali)",
+      "slug": "vertikali",
+      "description": "",
+      "contacts": {
+        "website": "",
+        "email": "",
+        "phone": "",
+        "whatsapp": "",
+        "telegram": ""
+      },
+      "social_media": {
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "tiktok": "",
+        "linkedin": ""
+      },
+      "projects": [],
+      "rating": {
+        "reliability": 0,
+        "profitability": 0,
+        "class": 0,
+        "total": 0
+      },
+      "location": "",
+      "founded_year": "",
+      "logo_url": "",
+      "parsed": false,
+      "parsed_date": null
+    }
+  ],
+  "last_updated": "2025-11-27",
+  "total_count": 54
+}

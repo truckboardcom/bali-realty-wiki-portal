@@ -4,11 +4,11 @@
       "id": "comp_1",
       "name": "618",
       "slug": "618",
-      "description": "",
+      "description": "618 Development – балийская компания, занимающаяся проектированием и строительством жилой недвижимости, ориентированной на долгосрочное качество и инвестиционную привлекательность.",
       "contacts": {
-        "website": "",
-        "email": "",
-        "phone": "",
+        "website": "https://618development.com",
+        "email": "hello@618development.com",
+        "phone": "+628232538699",
         "whatsapp": "",
         "telegram": ""
       },
@@ -17,20 +17,23 @@
         "facebook": "",
         "youtube": "",
         "tiktok": "",
-        "linkedin": ""
+        "linkedin": "https://linkedin.com/company/618-development"
       },
-      "projects": [],
+      "projects": [
+        "Residence 618",
+        "The Collection"
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
+      "location": "Kediri, Bali",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_2",

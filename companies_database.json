@@ -4,24 +4,55 @@
       "id": "comp_1",
       "name": "618",
       "slug": "618",
-      "description": "618 Development – балийская компания, занимающаяся проектированием и строительством жилой недвижимости, ориентированной на долгосрочное качество и инвестиционную привлекательность.",
+      "description": "Компания 618 Development специализируется на девелопменте luxury недвижимости на Бали, сочетая японскую хай‑тек эстетику с скандинавским модернизмом.",
       "contacts": {
         "website": "https://618development.com",
-        "email": "hello@618development.com",
-        "phone": "+628232538699",
+        "email": "",
+        "phone": "+62 821-9435-9401",
         "whatsapp": "",
         "telegram": ""
       },
       "social_media": {
         "instagram": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/p/Nuanu-Real-Estate-61560410021399",
         "youtube": "",
         "tiktok": "",
-        "linkedin": "https://linkedin.com/company/618-development"
+        "linkedin": "https://www.linkedin.com/company/618-development"
       },
       "projects": [
-        "Residence 618",
-        "The Collection"
+        {
+          "name": "Residence 618",
+          "location": "Nuanu, Бали",
+          "website": "https://newhomes.id/residence-618-bali",
+          "instagram": "",
+          "facebook": "",
+          "description": "Проект Residence 618 включает 4 роскошных трёхкомнатных виллы в 300 м от пляжа в районе Nuanu, Бали. Предлагает 13,5 % ROI и окупаемость за 7‑8 лет.",
+          "class": "люкс",
+          "status": "строится",
+          "avg_check_usd": "$820,000"
+        },
+        {
+          "name": "The Collection",
+          "location": "Kediri, Бали",
+          "website": "https://newhomes.id/the-collection-bali",
+          "instagram": "",
+          "facebook": "",
+          "description": "The Collection – жилой комплекс от 618 Development в Кедири, Бали. Цены от $1,014,000.",
+          "class": "люкс",
+          "status": "планируется",
+          "avg_check_usd": "$1,014,000"
+        },
+        {
+          "name": "Flower Estate",
+          "location": "Nuanu, Бали",
+          "website": "https://618development.com/projects/flower-estate",
+          "instagram": "",
+          "facebook": "",
+          "description": "Flower Estate – проект от 618 Development с 20 виллами, вдохновлёнными европейскими оранжереями, адаптированными к тропическому климату Бали.",
+          "class": "люкс",
+          "status": "планируется",
+          "avg_check_usd": ""
+        }
       ],
       "rating": {
         "reliability": 0,
@@ -29,7 +60,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Kediri, Bali",
+      "location": "Nuanu, Бали",
       "founded_year": "",
       "logo_url": "",
       "parsed": true,
@@ -259,9 +290,9 @@
       "id": "comp_4",
       "name": "Almal (из Дубая)",
       "slug": "almal",
-      "description": "",
+      "description": "Almal Real Estate Development – дубайский девелопер, специализирующийся на премиальной жилой, гостиничной и коммерческой недвижимости. Компания активно расширяется в Юго‑Восточную Азию, в том числе на Бали, предлагая проекты в стиле resort‑living.",
       "contacts": {
-        "website": "",
+        "website": "https://almal-investments.com",
         "email": "",
         "phone": "",
         "whatsapp": "",
@@ -274,18 +305,30 @@
         "tiktok": "",
         "linkedin": ""
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "The One by Almal",
+          "location": "Nusa Dua, Бали",
+          "website": "https://www.theonebyalmal.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "The One by Almal – флагманский жилой комплекс в престижном районе Nusa Dua, Бали. Проект сочетает резиденции, виллы и таунхаусы с курортным сервисом, частными бассейнами, ресторанами, фитнес‑центром и коворкинг‑пространствами.",
+          "class": "люкс",
+          "status": "off-plan",
+          "avg_check_usd": "$85,000–$100,000"
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
+      "location": "Дубай, ОАЭ",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_5",
@@ -357,11 +400,11 @@
       "id": "comp_6",
       "name": "Ante Group",
       "slug": "ante-group",
-      "description": "",
+      "description": "Международный застройщик с опытом строительства инвестиционной недвижимости, специализирующийся на качественном жилье в туристических локациях. Основатели – Антон Тараненко, компания работает с 2015 года.",
       "contacts": {
-        "website": "",
+        "website": "https://antagroup.info/en",
         "email": "",
-        "phone": "",
+        "phone": "+62 878-6002-4499",
         "whatsapp": "",
         "telegram": ""
       },
@@ -372,18 +415,41 @@
         "tiktok": "",
         "linkedin": ""
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "ANTA Residence Canggu",
+          "location": "Canggu, Kuta Utara, Badung Regency, Bali",
+          "website": "https://antagroup.info/antaresidence",
+          "instagram": "",
+          "facebook": "",
+          "description": "Премиум‑апартаменты в трендовой локации Чангу, Бали, с инфраструктурой «Jungle roof», инфинити‑бассейном и видом на океан.",
+          "class": "Премиум",
+          "status": "off-plan",
+          "avg_check_usd": "$154,000 - $350,000"
+        },
+        {
+          "name": "Ramada Encore Pandawa Hills",
+          "location": "South Kuta, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali",
+          "website": "https://newhomes.id/ramada-encore-pandawa-hills-bali",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс бизнес‑класса в южной части Куты, Бали, ориентированный на инвесторов и арендаторов.",
+          "class": "Бизнес‑класс",
+          "status": "off-plan",
+          "avg_check_usd": "$118,000"
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
-      "founded_year": "",
+      "location": "Bali, Indonesia",
+      "founded_year": "2015",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_7",
@@ -502,16 +568,16 @@
       "location": "",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_9",
       "name": "Balex",
       "slug": "balex",
-      "description": "Разработчик недвижимости в Бали, известный как Balix Development (PT. SCAPITAL BALI GROUP).",
+      "description": "Balex (Balix Development) – индонезийская девелоперская компания, действующая на Бали с 2010 года, занимается проектированием, строительством и управлением жилой недвижимости.",
       "contacts": {
-        "website": "https://geoln.com/developers/pt-scapital-bali-group-balix-development",
+        "website": "https://www.balixdg.com",
         "email": "",
         "phone": "",
         "whatsapp": "",
@@ -526,37 +592,26 @@
       },
       "projects": [
         {
-          "name": "Villa Dream Mone",
-          "location": "Denpasar, Bali",
-          "website": "",
-          "instagram": "",
-          "facebook": "",
-          "description": "Вилла с двумя этажами, предлагается к продаже по цене 2300 USD за квадратный метр.",
-          "class": "",
-          "status": "off-plan",
-          "avg_check_usd": "2300 USD/m²"
-        },
-        {
-          "name": "HEART VILLA BERAWA",
-          "location": "Denpasar, Bali",
-          "website": "",
-          "instagram": "",
-          "facebook": "",
-          "description": "Одноэтажная вилла в районе Берва, цена 1800 USD за квадратный метр.",
-          "class": "",
-          "status": "off-plan",
-          "avg_check_usd": "1800 USD/m²"
-        },
-        {
           "name": "Balix Lofts Ubud",
-          "location": "Ubud, Bali",
-          "website": "",
+          "location": "Убуд",
+          "website": "https://www.balixdg.com",
           "instagram": "",
           "facebook": "",
-          "description": "Апарт-отель в Убуде, двухэтажный объект, стоимость 2600 USD за квадратный метр.",
-          "class": "",
+          "description": "Комплекс из 14 лофтов в центре Убуда, окружённый джунглями и водопадами, предлагающий варианты оплаты в рассрочку и ожидаемую доходность от аренды 12‑18 %.",
+          "class": "премиум",
           "status": "off-plan",
-          "avg_check_usd": "2600 USD/m²"
+          "avg_check_usd": "$160 000 – $260 000"
+        },
+        {
+          "name": "INDARI by BALIX",
+          "location": "Убуд",
+          "website": "https://www.balixdg.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Проект роскошных вилл и дизайнерских апартаментов с панорамными видами на каньон и джунгли, включает 17 вилл и 26 апартаментов, ожидаемая доходность 10‑14 % и цены от $89 700.",
+          "class": "люкс",
+          "status": "планируется",
+          "avg_check_usd": "$89 700"
         }
       ],
       "rating": {
@@ -565,8 +620,8 @@
         "class": 0,
         "total": 0
       },
-      "location": "Бали, Индонезия",
-      "founded_year": "",
+      "location": "Бали",
+      "founded_year": "2010",
       "logo_url": "",
       "parsed": true,
       "parsed_date": "2025-11-27"
@@ -607,39 +662,84 @@
       "id": "comp_11",
       "name": "Value Investments (Феликс Демин)",
       "slug": "value-investments",
-      "description": "",
+      "description": "Bali Investments – строительная и инвестиционная компания, занимающаяся проектированием, строительством и управлением дизайнерских вилл и уникальных гостиничных объектов на Бали, ориентированных на краткосрочную аренду и высокий доход инвесторов.",
       "contacts": {
-        "website": "",
-        "email": "",
-        "phone": "",
+        "website": "https://bali-investments.ru/eng",
+        "email": "ballinvestmentsgroup@gmail.com",
+        "phone": "+62 819 1087-66-31",
         "whatsapp": "",
         "telegram": ""
       },
       "social_media": {
-        "instagram": "",
+        "instagram": "https://instagram.com/bubblehotelbali",
         "facebook": "",
         "youtube": "",
         "tiktok": "",
         "linkedin": ""
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "Green Flow Villas",
+          "location": "Ubud, Gianyar, Bali",
+          "website": "",
+          "instagram": "",
+          "facebook": "",
+          "description": "Комплекс современных дизайнерских вилл с 1‑3 спальнями, частными бассейнами, панорамными видами на рисовые поля и полной отделкой под ключ.",
+          "class": "премиум",
+          "status": "сдан",
+          "avg_check_usd": ""
+        },
+        {
+          "name": "Bubble Hotel",
+          "location": "Bali (разные локации, в том числе пляжные зоны)",
+          "website": "",
+          "instagram": "https://instagram.com/bubblehotelbali",
+          "facebook": "",
+          "description": "Уникальный отель с прозрачными купольными номерами, предлагающий гостям полное погружение в природу и получивший признание в TOP‑10 самых необычных отелей мира.",
+          "class": "люкс",
+          "status": "сдан",
+          "avg_check_usd": ""
+        },
+        {
+          "name": "Private Jet Villa",
+          "location": "Uluwatu, Bukit Peninsula, Bali",
+          "website": "",
+          "instagram": "",
+          "facebook": "",
+          "description": "Роскошная вилла, построенная внутри фюзеляжа бывшего Boeing 737, с двумя спальнями, частным бассейном, джакузи в кабине и собственным вертолётным площадкой.",
+          "class": "люкс",
+          "status": "сдан",
+          "avg_check_usd": "$2,000‑$6,500 за ночь"
+        },
+        {
+          "name": "Canggu Secrets Apartment Complex",
+          "location": "Canggu, Badung, Bali",
+          "website": "",
+          "instagram": "",
+          "facebook": "",
+          "description": "Инвестиционный жилой комплекс апартаментов в центре Canggu, предлагающий современные планировки площадью около 60 м², ориентированный на сдачу в краткосрочную аренду.",
+          "class": "средний",
+          "status": "off-plan",
+          "avg_check_usd": ""
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
+      "location": "Kuta Utara, Badung Regency, Bali",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_12",
       "name": "Baza Development (из Екатеринбурга)",
       "slug": "baza-development",
-      "description": "Baza Development – индонезийский девелопер в составе российской компании BAZA Development, занимающийся полным циклом строительства и управления объектами недвижимости на Бали.",
+      "description": "BALI BAZA DEVELOPMENT — индонезийский девелопер в составе российской компании BAZA Development, занимающийся полным циклом строительства и управления объектами на Бали.",
       "contacts": {
         "website": "https://balibaza.com",
         "email": "",
@@ -657,45 +757,45 @@
       "projects": [
         {
           "name": "BAZA Kedungu",
-          "location": "Кедунгу, Бали",
+          "location": "Кедунгу",
           "website": "https://bali.baza.bz",
           "instagram": "",
           "facebook": "",
-          "description": "Комплекс из 58 апартаментов в стиле Калифорния костал, расположенный на первой береговой линии популярного серферского района Кедунгу.",
+          "description": "Комплекс из 58 апартаментов в стиле Калифорния костал, расположенный на первой береговой линии главного серферского района Бали — Кедунгу, с видом на реку, рисовые поля, океан и вулкан Батур.",
           "class": "",
           "status": "",
           "avg_check_usd": ""
         },
         {
           "name": "Origins at Nuanu City",
-          "location": "Нуану, Бали",
-          "website": "https://bali.baza.bz",
+          "location": "Нуану (Кедири, Табаан)",
+          "website": "https://newhomes.id/origins-bali",
           "instagram": "",
           "facebook": "",
-          "description": "Первый премиум‑комплекс вилл внутри инновационного креативного города Nuanu City, в пешей доступности от всех ключевых объектов.",
-          "class": "",
-          "status": "",
-          "avg_check_usd": ""
+          "description": "Первый комплекс премиум‑вилл внутри инновационного города Нуану, созданного российским предпринимателем Сергеем Солониным, с полной меблировкой и дизайнерским ремонтом.",
+          "class": "люкс",
+          "status": "off-plan",
+          "avg_check_usd": "$530,000"
         },
         {
           "name": "Gate 11",
-          "location": "Кута, Бали",
-          "website": "https://housearch.com/indonesia/residential-complexes/gate-11-4012538",
+          "location": "Кута",
+          "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "Люксовый жилой комплекс в Куте с 1‑комнатными апартаментами, включающий 8 жилых и 4 коммерческих помещения.",
-          "class": "люкс",
-          "status": "сдан",
-          "avg_check_usd": "$85,000–$105,000"
+          "description": "Дизайнерский жилой комплекс из 8 апартаментов и 4 коммерческих помещений, расположенный в районе Кутa, в 5‑минутной ходьбе от пляжа Семиньяк.",
+          "class": "премиум",
+          "status": "строится",
+          "avg_check_usd": "$85,000–105,000"
         },
         {
           "name": "Bubbles Complex",
-          "location": "Бали",
-          "website": "https://bali.baza.bz",
+          "location": "",
+          "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "Комплекс из 5 лакшери‑вилл, предлагающих дизайнерский ремонт в балийском стиле и полную меблировку.",
-          "class": "",
+          "description": "Комплекс из 5 лакшери‑вилл, предлагающих высокий уровень комфорта и дизайна.",
+          "class": "люкс",
           "status": "",
           "avg_check_usd": ""
         }
@@ -707,7 +807,7 @@
         "total": 0
       },
       "location": "Бали",
-      "founded_year": "",
+      "founded_year": "2022",
       "logo_url": "",
       "parsed": true,
       "parsed_date": "2025-11-27"
@@ -748,11 +848,11 @@
       "id": "comp_14",
       "name": "BIOM Development",
       "slug": "biom-development",
-      "description": "",
+      "description": "BIOM Development Group – девелопер, занимающийся строительством apartments, villas и townhouses в районе Кедири (Керабан), Табаан, Бали. Проекты ориентированы на премиум‑сегмент, сочетают современный дизайн, экологичные материалы и развитую инфраструктуру Nuanu Creative City.",
       "contacts": {
-        "website": "",
+        "website": "https://biomdevelopment.com",
         "email": "",
-        "phone": "",
+        "phone": "+62 878-1915-1251",
         "whatsapp": "",
         "telegram": ""
       },
@@ -763,26 +863,38 @@
         "tiktok": "",
         "linkedin": ""
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "BIOM",
+          "location": "Кедири (Керабан), Табаан, Бали",
+          "website": "https://newhomes.id/biom-bali",
+          "instagram": "",
+          "facebook": "",
+          "description": "Многоформатный жилой комплекс, включающий 67 квартир, виллы и таунхаусы. Расположен в 5‑минутной ходьбе от пляжа Nyanyi, в центре Nuanu Creative City. Предлагает 3‑этажные здания, панорамные виды, смарт‑дом, бассейн, кино, спа и другие премиум‑удобства. Сдача запланирована на II квартал 2027 г.",
+          "class": "премиум",
+          "status": "строится",
+          "avg_check_usd": "$150,000 - $625,000"
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
+      "location": "Кедири (Керабан), Табаан, Бали",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_15",
       "name": "Big Valley Group",
       "slug": "big-valley-group",
-      "description": "Big Valley Group (Big Bali Group) — девелоперская компания, специализирующаяся на строительстве, продаже и управлении премиальной недвижимостью на Бали.",
+      "description": "Big Bali Group — индонезийский девелопер, предоставляющий полный спектр услуг: развитие, строительство, продажу и управление недвижимостью на Бали.",
       "contacts": {
-        "website": "https://bigbaligroup.com/",
+        "website": "https://indonesia-real.estate/developers/big-bali-group",
         "email": "",
         "phone": "+62 888-7777-881",
         "whatsapp": "",
@@ -798,36 +910,25 @@
       "projects": [
         {
           "name": "Aquamarine",
-          "location": "Mengwi, Badung Regency, Bali",
+          "location": "Mengwi, Cemagi, Badung, Bali",
           "website": "https://newhomes.id/aquamarine-cemagi-bali",
           "instagram": "",
           "facebook": "",
-          "description": "Жилой комплекс премиум‑класса с виллами и таунхаусами в районе Cemagi, Mengwi.",
-          "class": "премиум",
-          "status": "готов",
+          "description": "Жилой проект в районе Mengwi, ориентированный на готовые к заселению квартиры и виллы.",
+          "class": "",
+          "status": "ready",
           "avg_check_usd": "$420,000"
         },
         {
           "name": "Seseh Beachfront",
-          "location": "Mengwi, Badung Regency, Bali",
+          "location": "Mengwi, Cemagi, Badung, Bali",
           "website": "https://newhomes.id/iconic-living-seseh-beachfront-bali",
           "instagram": "",
           "facebook": "",
-          "description": "Элитный жилой проект у пляжа в районе Cemagi, Mengwi, ориентированный на инвестиционную покупку.",
-          "class": "люкс",
-          "status": "off-plan",
-          "avg_check_usd": "$599,000"
-        },
-        {
-          "name": "Labuan",
-          "location": "Pecatu, Badung Regency, Bali",
-          "website": "https://indonesia-real.estate/property/labuan-2217/",
-          "instagram": "",
-          "facebook": "",
-          "description": "Инвестиционный объект в виде вилл/апартаментов, расположенный в 2,2 км от океана, планируемый к сдаче в 2024 г.",
+          "description": "Прибрежный проект в Mengwi, предлагающий виллы и апартаменты с видом на океан.",
           "class": "",
           "status": "off-plan",
-          "avg_check_usd": ""
+          "avg_check_usd": "$599,000"
         }
       ],
       "rating": {
@@ -836,7 +937,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Kerobokan Kelod, Kuta, Badung Regency, Bali, Indonesia",
+      "location": "Kerobokan Kelod, Kuta, Badung Regency, Bali",
       "founded_year": "2019",
       "logo_url": "",
       "parsed": true,
@@ -942,11 +1043,11 @@
       "id": "comp_19",
       "name": "Cube",
       "slug": "cube",
-      "description": "",
+      "description": "The Cube Group – компания по развитию недвижимости, основанная в 2022 году, с головным офисом в Индонезии, специализирующаяся на отельных и жилых проектах на Бали.",
       "contacts": {
-        "website": "",
+        "website": "https://www.cubebali.com",
         "email": "",
-        "phone": "",
+        "phone": "+62 811-3997-977",
         "whatsapp": "",
         "telegram": ""
       },
@@ -955,20 +1056,43 @@
         "facebook": "",
         "youtube": "",
         "tiktok": "",
-        "linkedin": ""
+        "linkedin": "https://linkedin.com/company/the-cube-group"
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "The Cube Apartments",
+          "location": "Uluwatu, Бали",
+          "website": "https://cube.apartments",
+          "instagram": "",
+          "facebook": "",
+          "description": "Океанфронтный жилой комплекс из 120 serviced‑апартаментов с видом на океан, расположенный в 200 м от пляжа Uluwatu. Включает три бассейна, ресторан, бар, коворкинг, кино и другие удобства.",
+          "class": "премиум",
+          "status": "строится",
+          "avg_check_usd": ""
+        },
+        {
+          "name": "Cube Premium Hotel",
+          "location": "Uluwatu, Бали",
+          "website": "https://cube.apartments",
+          "instagram": "",
+          "facebook": "",
+          "description": "Отель премиум‑класса с 99 номерами, расположенный в районе Uluwatu на острове Бали.",
+          "class": "премиум",
+          "status": "строится",
+          "avg_check_usd": ""
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
-      "founded_year": "",
+      "location": "Пекату, Кута Сел., Бадун, Бали, Индонезия",
+      "founded_year": "2022",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_20",
@@ -1040,12 +1164,12 @@
       "id": "comp_21",
       "name": "Dolphin",
       "slug": "dolphin",
-      "description": "Dolphin (PT. Skyly Pink Dolphins) – девелопер, предлагающий инвестиции в недвижимость на Бали, в частности в проекте DolphinHill – бутик‑апарт‑отель в Убуде.",
+      "description": "DolphinHill – бутик‑апарт‑отель в Убуде, разработанный компанией Atmosphera Bali (PT. Skyly Pink Dolphins). Предлагает полностью меблированные апартаменты для инвестиций с ожидаемым ROI до 16 %.",
       "contacts": {
-        "website": "https://www.dolphinhill.com/eng",
+        "website": "https://www.dolphinhill.com",
         "email": "",
-        "phone": "",
-        "whatsapp": "",
+        "phone": "+62 822-6621-6588",
+        "whatsapp": "+62 822-6621-6588",
         "telegram": ""
       },
       "social_media": {
@@ -1057,13 +1181,13 @@
       },
       "projects": [
         {
-          "name": "DolphinHill Apartments",
-          "location": "Ubud, Gianyar, Bali",
-          "website": "https://www.dolphinhill.com/eng",
+          "name": "DolphinHill",
+          "location": "Ubud, Bali",
+          "website": "https://www.dolphinhill.com",
           "instagram": "",
           "facebook": "",
-          "description": "Бутик‑апарт‑отель в сердце Убуда, 27 полностью меблированных апартаментов (23 односпальные, 4 двухспальные) с инфинити‑бассейном, панорамным крышей, йога‑зоной и коворкингом. Сдача запланирована на 1‑й квартал 2026 года.",
-          "class": "средний",
+          "description": "Бутик‑апартаменты в Убуде: 27 единиц (23 однокомнатные, 4 двухкомнатные), с панорамным крышим, йога‑зоной, большим инфинити‑бассейном и другими удобствами. Предназначены для краткосрочной аренды с высоким доходом.",
+          "class": "премиум",
           "status": "строится",
           "avg_check_usd": "$99,000 - $145,000"
         }
@@ -1074,7 +1198,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Denpasar Selatan, Bali",
+      "location": "Ubud, Bali",
       "founded_year": "",
       "logo_url": "",
       "parsed": true,
@@ -1422,7 +1546,7 @@
       "id": "comp_29",
       "name": "Magnum",
       "slug": "magnum",
-      "description": "Ведущий застройщик премиальной недвижимости на Бали, предлагающий роскошные виллы и апартаменты в топ‑районах острова.",
+      "description": "Magnum Estate — ведущий застройщик премиальной недвижимости на Бали, специализирующийся на проектировании, строительстве и управлении элитными виллами, апартаментами и жилыми комплексами.",
       "contacts": {
         "website": "https://magnumestate.pro",
         "email": "",
@@ -1440,69 +1564,58 @@
       "projects": [
         {
           "name": "Magnum Resort Berawa",
-          "location": "Берава, Бали",
-          "website": "https://magnumestate.pro/berawa_eng",
+          "location": "Berawa, Kuta Utara, Badung Regency, Bali",
+          "website": "https://magnumestate.pro/berawa_eng?utm_source=google_maps&utm_medium=berawa_eng",
           "instagram": "",
           "facebook": "",
-          "description": "Премиум‑комплекс с самым длинным в мире бассейном на крыше (190 м) и 5 000 м² премиальных удобств.",
-          "class": "люкс",
+          "description": "Премиум‑классный жилой комплекс с самым длинным в мире крытым бассейном (190 м) и 5 000 м² премиальных удобств, расположенный в туристическом районе Берва.",
+          "class": "премиум",
           "status": "строится",
-          "avg_check_usd": "$640,000"
+          "avg_check_usd": "$640,000 – $1,000,000"
         },
         {
-          "name": "Magnum Resort Sanur",
-          "location": "Санур, Бали",
-          "website": "",
+          "name": "Magnet Resort Sanur",
+          "location": "Sanur, Denpasar Selatan, Bali",
+          "website": "https://magnumestate.pro/projects_eng",
           "instagram": "",
           "facebook": "",
-          "description": "Флагманский океанфронт‑комплекс с 8 000 м² премиальной инфраструктуры и собственным яхт‑клубом.",
-          "class": "люкс",
-          "status": "сдан",
-          "avg_check_usd": "$1,410,000"
+          "description": "Флагманский океанский жилой комплекс с 8 000 м² премиальной инфраструктуры, включая эксклюзивный яхт‑клуб для резидентов.",
+          "class": "премиум",
+          "status": "off-plan",
+          "avg_check_usd": "$1,410,000 – $3,000,000"
         },
         {
           "name": "The Umalas Signature",
-          "location": "Умалас, Бали",
-          "website": "",
+          "location": "Umalas, Kuta Utara, Badung Regency, Bali",
+          "website": "https://magnumestate.pro/projects_eng",
           "instagram": "",
           "facebook": "",
-          "description": "Первый в Бали высокотехнологичный премиум‑клубный комплекс с 5 000 м² удобств, расположенный в Canggu.",
-          "class": "люкс",
-          "status": "сдан",
-          "avg_check_usd": "$345,000"
+          "description": "Первый в Бали высокотехнологичный премиум‑клубный дом с 5 000 м² современных удобств и бесплатным правом собственности (freehold).",
+          "class": "премиум",
+          "status": "строится",
+          "avg_check_usd": "$345,000 – $1,000,000"
         },
         {
           "name": "Sky Stars Ocean View",
-          "location": "Букаит‑Пенинсула, Бали",
-          "website": "",
+          "location": "Bukit Peninsula, South Bali",
+          "website": "https://magnumestate.pro/projects_eng",
           "instagram": "",
           "facebook": "",
-          "description": "Виллы в калифорнийском стиле с панорамным видом на остров и океан, пятизвёздным сервисом и круглосуточной охраной.",
+          "description": "Роскошный вилловый комплекс в калифорнийском стиле с панорамными видами на океан и остров, обслуживаемый пятизвёздочными сервисами и круглосуточной охраной.",
           "class": "люкс",
-          "status": "сдан",
-          "avg_check_usd": "$715,000"
+          "status": "строится",
+          "avg_check_usd": "$715,000 – $1,500,000"
         },
         {
           "name": "Dharma Residence",
-          "location": "Чангу, Бали",
-          "website": "",
+          "location": "Canggu, Badung Regency, Bali",
+          "website": "https://magnumestate.pro/projects_eng",
           "instagram": "",
           "facebook": "",
-          "description": "Самый престижный gated‑вилла‑комплекс на острове с крупнейшим в Бали теннисным центром.",
+          "description": "Самый престижный закрытый жилой комплекс на Бали с крупнейшим в стране теннисным центром и полным набором премиальных удобств.",
           "class": "люкс",
           "status": "строится",
-          "avg_check_usd": "$1,900,000"
-        },
-        {
-          "name": "Magnum Residence Sanur",
-          "location": "Санур, Бали",
-          "website": "",
-          "instagram": "",
-          "facebook": "",
-          "description": "Новый премиальный жилой комплекс у последнего свободного участка земли в туристическом районе, с прямым доступом к пляжу и полным набором удобств.",
-          "class": "люкс",
-          "status": "off-plan",
-          "avg_check_usd": "$800,000‑$3,000,000"
+          "avg_check_usd": "$1,000,000 – $1,900,000"
         }
       ],
       "rating": {
@@ -1511,7 +1624,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Бали",
+      "location": "Kerobokan, Kuta Utara, Badung Regency, Bali, Indonesia",
       "founded_year": "2019",
       "logo_url": "",
       "parsed": true,
@@ -1817,9 +1930,9 @@
       "slug": "oceanic",
       "description": "Ocean Real Estate – агентство недвижимости на Бали, предлагающее услуги по покупке, продаже и инвестициям в недвижимость.",
       "contacts": {
-        "website": "https://www.ocean-dg.com/",
+        "website": "",
         "email": "",
-        "phone": "+62 823-4214-1089",
+        "phone": "",
         "whatsapp": "",
         "telegram": ""
       },
@@ -1847,11 +1960,11 @@
       "id": "comp_36",
       "name": "ParkYu (распределение между компаниями)",
       "slug": "parkyu",
-      "description": "",
+      "description": "PARQ Development – девелопер, занимающийся строительством жилой и коммерческой недвижимости на Бали. Предлагает квартиры, виллы и инфраструктурные комплексы, сочетая современный дизайн, экологические тенденции и сохранение деревьев.",
       "contacts": {
-        "website": "",
+        "website": "https://parqdevelopment.com",
         "email": "",
-        "phone": "",
+        "phone": "+62 877 3590 6428",
         "whatsapp": "",
         "telegram": ""
       },
@@ -1862,18 +1975,96 @@
         "tiktok": "",
         "linkedin": ""
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "PARQ Ubud",
+          "location": "Ubud, Gianyar, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс в Убуде, включающий виллы и квартиры, расположенный в 20.8 км от океана, планируемый к сдаче в III квартале 2024 года.",
+          "class": "Премиум",
+          "status": "off-plan",
+          "avg_check_usd": "$111 625 - $255 000"
+        },
+        {
+          "name": "PARQ Blue",
+          "location": "Ungasan, Badung, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс с квартирами и виллами, находящийся в 500 м от пляжа Melasti, находится в стадии строительства.",
+          "class": "Премиум",
+          "status": "строится",
+          "avg_check_usd": "$380 000 - $487 500"
+        },
+        {
+          "name": "SOHO BY PARQ",
+          "location": "Ungasan, Badung, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс в Унгасане, 1.1 км от океана, планируемый к сдаче в III квартале 2025 года.",
+          "class": "Средний",
+          "status": "off-plan",
+          "avg_check_usd": "$292 500 - $380 000"
+        },
+        {
+          "name": "Parq Family",
+          "location": "Gianyar, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс в Педженге, 14.4 км от океана, предлагающий квартиры от 1 до 2 спален.",
+          "class": "Средний",
+          "status": "off-plan",
+          "avg_check_usd": "$72 500 - $250 000"
+        },
+        {
+          "name": "Parq Citadel",
+          "location": "Ungasan, Badung, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс в Унгасане, 1.8 км от океана, предлагающий квартиры от 1 до 3 спален.",
+          "class": "Средний",
+          "status": "off-plan",
+          "avg_check_usd": "$106 400 - $487 500"
+        },
+        {
+          "name": "Parq Soho Surfside",
+          "location": "Pecatu, Badung, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс в Пекату, 750 м от океана, предлагающий квартиры от 1 до 2 спален.",
+          "class": "Средний",
+          "status": "off-plan",
+          "avg_check_usd": "$200 000 - $374 400"
+        },
+        {
+          "name": "Ocean City",
+          "location": "Karangasem, Bali",
+          "website": "https://parqdevelopment.com",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс в Карангасеме, в 10 м от океана, предлагающий квартиры от 1 до 3 спален.",
+          "class": "Средний",
+          "status": "off-plan",
+          "avg_check_usd": "$150 000 - $973 500"
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
+      "location": "Бали, Индонезия",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_37",
@@ -1923,11 +2114,11 @@
       "id": "comp_38",
       "name": "Premier Global Development",
       "slug": "premier-global-development",
-      "description": "",
+      "description": "Premier Global Development (PGD) – международный девелопер, работающий на рынке недвижимости Бали, известный своей политикой полного соблюдения местных регуляций и разработки апарт-отелей как альтернативы рисковым виллам.",
       "contacts": {
         "website": "",
         "email": "",
-        "phone": "",
+        "phone": "+62 813-5383-7721",
         "whatsapp": "",
         "telegram": ""
       },
@@ -1938,18 +2129,41 @@
         "tiktok": "",
         "linkedin": ""
       },
-      "projects": [],
+      "projects": [
+        {
+          "name": "PGD Aparthotel",
+          "location": "Canggu district, Bali",
+          "website": "",
+          "instagram": "",
+          "facebook": "",
+          "description": "Апарт-отель, построенный с учётом всех местных разрешений (leasehold, hotel‑approved zoning). Управляется международной сетью Ribas Hotels Group, позиционируется как безопасный и законный вариант инвестиций в недвижимость Бали.",
+          "class": "премиум",
+          "status": "сдан",
+          "avg_check_usd": ""
+        },
+        {
+          "name": "Umalas Premier Project",
+          "location": "Umalas, Canggu, Bali",
+          "website": "https://worldestate.homes/en/umalas-premier-project",
+          "instagram": "",
+          "facebook": "",
+          "description": "Эксклюзивный жилой комплекс из 30 современных вилл в престижном районе Umalas, предлагающий готовые к проживанию объекты с частными бассейнами и полной мебелью.",
+          "class": "люкс",
+          "status": "планируется",
+          "avg_check_usd": ""
+        }
+      ],
       "rating": {
         "reliability": 0,
         "profitability": 0,
         "class": 0,
         "total": 0
       },
-      "location": "",
+      "location": "Kerobokan Kelod, Kuta Utara, Badung Regency, Bali, Indonesia",
       "founded_year": "",
       "logo_url": "",
-      "parsed": false,
-      "parsed_date": null
+      "parsed": true,
+      "parsed_date": "2025-11-27"
     },
     {
       "id": "comp_39",
@@ -1987,7 +2201,7 @@
       "id": "comp_40",
       "name": "Pertamo Property",
       "slug": "pertamo-property",
-      "description": "Pertama Property — ведущий застройщик недвижимости на Бали, предлагающий премиальные объекты с высокой доходностью и полным юридическим сопровождением.",
+      "description": "Pertama Property — девелопер недвижимости на Бали, предлагающий безопасные и роскошные дома с высоким инвестиционным потенциалом и прогнозируемой доходностью 12‑16% в год.",
       "contacts": {
         "website": "https://pertamaproperty.com",
         "email": "",
@@ -2009,9 +2223,9 @@
           "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "150‑комнатный отель‑жизненный комплекс в Семиньяке, рассчитанный на гибкую аренду.",
-          "class": "люкс",
-          "status": "",
+          "description": "150‑комнатный lifestyle‑hotel в Семиньяке, рассчитанный на гибкое использование в аренду.",
+          "class": "Люкс",
+          "status": "строится",
           "avg_check_usd": ""
         },
         {
@@ -2020,9 +2234,9 @@
           "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "14‑вилл в партнерстве с брендом ELLE, сочетающих парижский дизайн и тропическую лёгкость.",
-          "class": "люкс",
-          "status": "",
+          "description": "Брендированный проект из 14 вилл в партнёрстве с ELLE, сочетает парижский дизайн и тропический комфорт.",
+          "class": "Люкс",
+          "status": "строится",
           "avg_check_usd": ""
         },
         {
@@ -2031,9 +2245,9 @@
           "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "Два премиальных дома в средиземноморском стиле с двумя частными бассейнами у каждой виллы.",
-          "class": "люкс",
-          "status": "",
+          "description": "Премиум‑виллы в средиземноморском стиле, каждая с двумя частными бассейнами.",
+          "class": "Премиум",
+          "status": "строится",
           "avg_check_usd": ""
         },
         {
@@ -2043,8 +2257,8 @@
           "instagram": "",
           "facebook": "",
           "description": "Семь роскошных вилл в растущем жилом коридоре, ориентированных на долгосрочное проживание и стильных покупателей.",
-          "class": "люкс",
-          "status": "",
+          "class": "Люкс",
+          "status": "строится",
           "avg_check_usd": ""
         }
       ],
@@ -2054,7 +2268,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Kerobokan Kelod, Kuta Utara, Badung, Bali",
+      "location": "Kerobokan Kelod, Kuta Utara, Badung, Bali, Indonesia",
       "founded_year": "",
       "logo_url": "",
       "parsed": true,
@@ -2217,7 +2431,7 @@
       "id": "comp_43",
       "name": "Remark",
       "slug": "remark",
-      "description": "Remarc Property Group переопределяет инвестиции в недвижимость на Бали, сочетая инновации, роскошь и прибыльность.",
+      "description": "Remarc Property Group – девелопер, занимающийся созданием премиальных жилых и коммерческих объектов в Бали, сочетая инновации, роскошь и прибыльность инвестиций.",
       "contacts": {
         "website": "https://remarc.group",
         "email": "",
@@ -2236,21 +2450,21 @@
         {
           "name": "Zen Luxury Complex",
           "location": "Cemagi, Mengwi",
-          "website": "https://newhomes.id/zen-luxury-complex-bali",
-          "instagram": "",
-          "facebook": "",
-          "description": "Люксовый жилой комплекс в районе Cemagi, ориентированный на инвесторов и владельцев премиум‑недвижимости.",
-          "class": "люкс",
-          "status": "строится",
-          "avg_check_usd": "от $99,000"
-        },
-        {
-          "name": "Tegal Cupek Complex",
-          "location": "Kerobokan, Kuta Utara",
           "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "Завершённый жилой комплекс с виллами в районе Тегал Чупек.",
+          "description": "Жилой комплекс класса люкс, строительство началось в октябре 2024 года.",
+          "class": "люкс",
+          "status": "строится",
+          "avg_check_usd": "$135,000"
+        },
+        {
+          "name": "Tegal Cupek Complex",
+          "location": "",
+          "website": "",
+          "instagram": "",
+          "facebook": "",
+          "description": "Завершённый жилой проект компании Remarc.",
           "class": "",
           "status": "сдан",
           "avg_check_usd": ""
@@ -2261,9 +2475,9 @@
           "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "Завершённый проект вилл премиум‑класса.",
-          "class": "",
-          "status": "сдан",
+          "description": "Серия вилл премиум‑класса, реализованных Remarc.",
+          "class": "премиум",
+          "status": "",
           "avg_check_usd": ""
         },
         {
@@ -2272,9 +2486,20 @@
           "website": "",
           "instagram": "",
           "facebook": "",
-          "description": "Завершённый проект вилл премиум‑класса.",
+          "description": "Виллы среднего‑класса, входящие в портфель Remarc.",
+          "class": "средний",
+          "status": "",
+          "avg_check_usd": ""
+        },
+        {
+          "name": "Remarc Office",
+          "location": "",
+          "website": "",
+          "instagram": "",
+          "facebook": "",
+          "description": "Офисный объект компании Remarc.",
           "class": "",
-          "status": "сдан",
+          "status": "",
           "avg_check_usd": ""
         }
       ],
@@ -2284,7 +2509,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Kerobokan, Kuta Utara, Badung Regency, Bali",
+      "location": "Бали",
       "founded_year": "",
       "logo_url": "",
       "parsed": true,
@@ -2546,9 +2771,9 @@
       "id": "comp_48",
       "name": "Tamora (опытный индонезийский)",
       "slug": "tamora",
-      "description": "Tamora Group — ведущий застройщик на Бали, создающий уникальные проекты, где дизайн, природа и сообщество объединяются для лучшего качества жизни.",
+      "description": "Tamora Group – опытный индонезийский застройщик недвижимости на Бали, реализующий жилые комплексы, торгово‑развлекательные проекты и получивший награду Badung Investment Awards 2024.",
       "contacts": {
-        "website": "https://www.tamoragroup.com",
+        "website": "https://tamoragroup.com",
         "email": "",
         "phone": "+62 821-4752-3282",
         "whatsapp": "",
@@ -2563,36 +2788,36 @@
       },
       "projects": [
         {
-          "name": "The Tamora",
-          "location": "Кангу, Бадунг, Бали",
-          "website": "https://indonesia-real.estate/property/the-tamora-2271",
-          "instagram": "",
-          "facebook": "",
-          "description": "Жилой комплекс премиум‑класса с современным дизайном, расположенный в престижном районе Кангу, рядом с пляжем и инфраструктурой.",
-          "class": "премиум",
-          "status": "сдан",
-          "avg_check_usd": ""
-        },
-        {
           "name": "Tamora Gallery",
-          "location": "Берава (Кангу), Бали",
+          "location": "Берава/Чангу, Бали",
           "website": "https://tamoragroup.com/projects/tamora-gallery",
           "instagram": "",
           "facebook": "",
-          "description": "Первый семейный торгово‑развлекательный центр в районе Берва, объединяющий шопинг, образование и развлечения, с более чем 30 уникальными бизнесами и площадкой для мероприятий.",
-          "class": "",
-          "status": "",
+          "description": "Первый семейный торгово‑развлекательный центр в районе Берва/Чангу, объединяющий шопинг, образование и развлечения, включающий 32 уникальных бизнеса и детскую площадку со скейт‑боулом.",
+          "class": "премиум",
+          "status": "закрыт",
+          "avg_check_usd": ""
+        },
+        {
+          "name": "Taman Tamora Villas",
+          "location": "Canggu, Бали",
+          "website": "https://tamoragroup.com/projects/taman-tamora",
+          "instagram": "",
+          "facebook": "",
+          "description": "Жилой комплекс с центральным общим садом (TAMAN), где резиденты могут наслаждаться зелёными зонами и естественными прудами в центре быстро развивающегося района.",
+          "class": "люкс",
+          "status": "строится",
           "avg_check_usd": ""
         },
         {
           "name": "Nava Tamora Canggu",
-          "location": "Бадунг, Бали",
+          "location": "Badung, Бали",
           "website": "https://rumahsaya.bca.co.id/developer/tamora-group/badung/nava-tamora-canggu",
           "instagram": "",
           "facebook": "",
-          "description": "Современный жилой комплекс в Кангу с уникальным дизайном и открытыми зелёными зонами, ориентированный на комфорт и взаимодействие с природой.",
+          "description": "",
           "class": "",
-          "status": "",
+          "status": "off-plan",
           "avg_check_usd": "Rp6,2 M"
         }
       ],
@@ -2775,7 +3000,7 @@
       "id": "comp_53",
       "name": "Unit",
       "slug": "unit",
-      "description": "Девелопер Unit Space Group, развивающий инновационные и устойчивые жилые проекты на Бали, ориентированные на комфорт, технологичность и экологичность.",
+      "description": "Unit Space Group – девелопер, специализирующийся на интеллектуальных, устойчивых и стильных жилых проектах на Бали, предлагающих дома по цене квартиры с современными технологиями и продуманным дизайном.",
       "contacts": {
         "website": "https://unitspace.city",
         "email": "",
@@ -2793,14 +3018,14 @@
       "projects": [
         {
           "name": "Unit Nuanu Village",
-          "location": "Nuanu, Бали",
+          "location": "Nuanu, Кедири, Табаан, Бали",
           "website": "https://unitspace.city",
           "instagram": "",
           "facebook": "",
-          "description": "Инновационный жилой комплекс на 44 гектарах с 102 полностью меблированными юнитами, включающими террасы, домашний кинотеатр и виды на рисовые поля, а также обширную инфраструктуру (спа, шоппинг‑молл, школы, спорт‑площадки и др.).",
-          "class": "премиум",
-          "status": "строится",
-          "avg_check_usd": "$290,000 - $112,000"
+          "description": "Большой жилой комплекс (44 га) с 102 квартирами, террасами, домашним кинотеатром и видами на рисовые поля. Включает 24/7 сервис (уборка, прачечная, аренда), экологичные материалы, электровелосипеды, зоны отдыха, спа, торговый центр, школы и другие инфраструктурные объекты.",
+          "class": "люкс",
+          "status": "off-plan",
+          "avg_check_usd": "$103k - $112k"
         }
       ],
       "rating": {
@@ -2809,7 +3034,7 @@
         "class": 0,
         "total": 0
       },
-      "location": "Nuanu, Бали",
+      "location": "Nuanu, Кедири, Табаан, Бали",
       "founded_year": "",
       "logo_url": "",
       "parsed": true,

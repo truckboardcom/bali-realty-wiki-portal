@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Компания - Bali Realty</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, system-ui, sans-serif; background: #f8f9fa; color: #333; }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; padding: 30px 20px;
+        }
+        .header .container { max-width: 1200px; margin: 0 auto; }
+        .back-btn {
+            color: white; text-decoration: none; font-size: 16px;
+            display: inline-block; margin-bottom: 20px;
+        }
+        .back-btn:hover { opacity: 0.8; }
+
+        .company-header {
+            display: flex; align-items: center; gap: 20px;
+            flex-wrap: wrap;
+        }
+        .company-rank {
+            background: rgba(255,255,255,0.2); padding: 15px 25px;
+            border-radius: 15px; font-size: 32px; font-weight: bold;
+        }
+        .company-title h1 { font-size: 36px; margin-bottom: 8px; }
+        .company-title p { opacity: 0.9; font-size: 18px; }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+
+        .info-grid {
+            display: grid; grid-template-columns: 2fr 1fr; gap: 25px;
+            margin-bottom: 25px;
+        }
+
+        .card {
+            background: white; border-radius: 12px; padding: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+
+        .card h2 {
+            font-size: 24px; color: #2d3748; margin-bottom: 20px;
+            padding-bottom: 12px; border-bottom: 3px solid #667eea;
+        }
+
+        .contact-item {
+            display: flex; align-items: center; gap: 12px;
+            padding: 12px; background: #f7fafc; border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        .contact-item i { font-size: 20px; color: #667eea; }
+        .contact-item a {
+            color: #4a5568; text-decoration: none;
+        }
+        .contact-item a:hover { color: #667eea; }
+
+        .social-links {
+            display: flex; gap: 15px; flex-wrap: wrap;
+        }
+        .social-btn {
+            display: inline-flex; align-items: center; gap: 8px;
+            padding: 10px 18px; border-radius: 8px;
+            text-decoration: none; font-weight: 600;
+            transition: all 0.3s;
+        }
+        .social-btn:hover { transform: translateY(-2px); }
+        .social-instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color: white; }
+        .social-telegram { background: #0088cc; color: white; }
+        .social-whatsapp { background: #25d366; color: white; }
+        .social-facebook { background: #1877f2; color: white; }
+
+        .score-item {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 15px; background: #f7fafc; border-radius: 8px;
+            margin-bottom: 12px;
+        }
+        .score-label { font-weight: 600; color: #4a5568; }
+        .score-value {
+            font-size: 20px; font-weight: bold; color: #667eea;
+        }
+
+        .description { line-height: 1.8; color: #4a5568; }
+        .description p { margin-bottom: 15px; }
+
+        .status-badge {
+            display: inline-block; padding: 8px 16px; border-radius: 20px;
+            font-size: 14px; font-weight: 600;
+        }
+        .status-active { background: #48bb78; color: white; }
+        .status-pending { background: #ed8936; color: white; }
+
+        @media (max-width: 768px) {
+            .info-grid { grid-template-columns: 1fr; }
+            .company-header { flex-direction: column; align-items: flex-start; }
+            .company-title h1 { font-size: 28px; }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <a href="companies.html" class="back-btn">← Вернуться к списку</a>
+            <div class="company-header">
+                <div class="company-rank" id="companyRank">#1</div>
+                <div class="company-title">
+                    <h1 id="companyName">Загрузка...</h1>
+                    <p id="companyLocation">Бали, Индонезия</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="info-grid">
+            <div class="card">
+                <h2>📋 О компании</h2>
+                <div class="description" id="companyDescription">
+                    <p>Загрузка информации...</p>
+                </div>
+            </div>
+
+            <div>
+                <div class="card" style="margin-bottom: 25px;">
+                    <h2>📊 Рейтинг</h2>
+                    <div class="score-item">
+                        <span class="score-label">Надежность</span>
+                        <span class="score-value" id="scoreReliability">-</span>
+                    </div>
+                    <div class="score-item">
+                        <span class="score-label">Доходность</span>
+                        <span class="score-value" id="scoreProfitability">-</span>
+                    </div>
+                    <div class="score-item">
+                        <span class="score-label">Качество</span>
+                        <span class="score-value" id="scoreQuality">-</span>
+                    </div>
+                    <div class="score-item" style="background: #667eea; color: white;">
+                        <span class="score-label" style="color: white;">Общий балл</span>
+                        <span class="score-value" style="color: white;" id="scoreTotal">-</span>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>📞 Контакты</h2>
+                    <div id="contactInfo">
+                        <div class="contact-item">
+                            <i class="fas fa-globe"></i>
+                            <span>Загрузка...</span>
+                        </div>
+                    </div>
+
+                    <h3 style="margin: 20px 0 15px 0; font-size: 18px;">Социальные сети</h3>
+                    <div class="social-links" id="socialLinks">
+                        <span style="color: #718096;">Нет данных</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>🏗️ Проекты</h2>
+            <div id="projectsList">
+                <p style="color: #718096;">Список проектов загружается...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // База данных загружается из companies_database.json
+        async function loadCompanyData() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const companyId = urlParams.get('id');
+
+            try {
+                const response = await fetch('companies_database.json');
+                const db = await response.json();
+                const company = db.companies.find(c => c.id === companyId);
+
+                if (!company) {
+                    document.getElementById('companyName').textContent = 'Компания не найдена';
+                    return;
+                }
+
+                // Заполняем данные
+                document.title = company.name + ' - Bali Realty';
+                document.getElementById('companyRank').textContent = '#' + company.rank;
+                document.getElementById('companyName').textContent = company.name;
+                document.getElementById('companyLocation').textContent = company.location || 'Бали, Индонезия';
+
+                // Описание
+                const desc = document.getElementById('companyDescription');
+                desc.innerHTML = company.description.map(p => `<p>${p}</p>`).join('');
+
+                // Оценки
+                document.getElementById('scoreReliability').textContent = company.scores.reliability || 'н/д';
+                document.getElementById('scoreProfitability').textContent = company.scores.profitability || 'н/д';
+                document.getElementById('scoreQuality').textContent = company.scores.quality || 'н/д';
+                document.getElementById('scoreTotal').textContent = company.scores.total || 'н/д';
+
+                // Контакты
+                const contactInfo = document.getElementById('contactInfo');
+                let contactHTML = '';
+
+                if (company.contact.website) {
+                    contactHTML += `
+                        <div class="contact-item">
+                            <i class="fas fa-globe"></i>
+                            <a href="${company.contact.website}" target="_blank">${company.contact.website}</a>
+                        </div>`;
+                }
+                if (company.contact.phone) {
+                    contactHTML += `
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <a href="tel:${company.contact.phone}">${company.contact.phone}</a>
+                        </div>`;
+                }
+                if (company.contact.email) {
+                    contactHTML += `
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <a href="mailto:${company.contact.email}">${company.contact.email}</a>
+                        </div>`;
+                }
+
+                contactInfo.innerHTML = contactHTML || '<p style="color: #718096;">Контакты будут добавлены</p>';
+
+                // Соцсети
+                const socialLinks = document.getElementById('socialLinks');
+                let socialHTML = '';
+
+                if (company.contact.social.instagram) {
+                    socialHTML += `<a href="${company.contact.social.instagram}" target="_blank" class="social-btn social-instagram">
+                        <i class="fab fa-instagram"></i> Instagram
+                    </a>`;
+                }
+                if (company.contact.social.telegram) {
+                    socialHTML += `<a href="${company.contact.social.telegram}" target="_blank" class="social-btn social-telegram">
+                        <i class="fab fa-telegram"></i> Telegram
+                    </a>`;
+                }
+                if (company.contact.social.whatsapp) {
+                    socialHTML += `<a href="${company.contact.social.whatsapp}" target="_blank" class="social-btn social-whatsapp">
+                        <i class="fab fa-whatsapp"></i> WhatsApp
+                    </a>`;
+                }
+                if (company.contact.social.facebook) {
+                    socialHTML += `<a href="${company.contact.social.facebook}" target="_blank" class="social-btn social-facebook">
+                        <i class="fab fa-facebook"></i> Facebook
+                    </a>`;
+                }
+
+                socialLinks.innerHTML = socialHTML || '<span style="color: #718096;">Социальные сети будут добавлены</span>';
+
+                // Проекты
+                const projectsList = document.getElementById('projectsList');
+                if (company.projects && company.projects.length > 0) {
+                    projectsList.innerHTML = company.projects.map(p => `<p>• ${p}</p>`).join('');
+                } else {
+                    projectsList.innerHTML = '<p style="color: #718096;">Проекты будут добавлены</p>';
+                }
+
+            } catch (error) {
+                console.error('Ошибка загрузки:', error);
+                document.getElementById('companyName').textContent = 'Ошибка загрузки данных';
+            }
+        }
+
+        loadCompanyData();
+    </script>
+</body>
+</html>
